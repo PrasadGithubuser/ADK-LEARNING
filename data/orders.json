@@ -1,0 +1,105 @@
+[
+  {
+    "order_id": "NC1001",
+    "customer_name": "Priya Sharma",
+    "customer_email": "priya.sharma@example.com",
+    "order_date": "2026-10-15",
+    "status": "delivered",
+    "delivered_date": "2026-10-20",
+    "items": [{"name": "Wireless Earbuds", "category": "audio", "price_inr": 2499, "qty": 1}],
+    "total_inr": 2499
+  },
+  {
+    "order_id": "NC1002",
+    "customer_name": "Rahul Verma",
+    "customer_email": "rahul.verma@example.com",
+    "order_date": "2026-08-27",
+    "status": "delivered",
+    "delivered_date": "2026-09-01",
+    "items": [{"name": "Phone Charger", "category": "accessories", "price_inr": 1299, "qty": 1}],
+    "total_inr": 1299
+  },
+  {
+    "order_id": "NC1003",
+    "customer_name": "Anita Rao",
+    "customer_email": "anita.rao@example.com",
+    "order_date": "2026-10-24",
+    "status": "shipped",
+    "delivered_date": null,
+    "items": [{"name": "Mechanical Keyboard", "category": "computing", "price_inr": 4599, "qty": 1}],
+    "total_inr": 4599
+  },
+  {
+    "order_id": "NC1004",
+    "customer_name": "Priya Sharma",
+    "customer_email": "priya.sharma@example.com",
+    "order_date": "2026-10-27",
+    "status": "processing",
+    "delivered_date": null,
+    "items": [{"name": "HD Webcam", "category": "computing", "price_inr": 3199, "qty": 1}],
+    "total_inr": 3199
+  },
+  {
+    "order_id": "NC1005",
+    "customer_name": "Karan Mehta",
+    "customer_email": "karan.mehta@example.com",
+    "order_date": "2026-10-10",
+    "status": "delivered",
+    "delivered_date": "2026-10-15",
+    "items": [{"name": "Laptop 14-inch", "category": "computing", "price_inr": 68000, "qty": 1}],
+    "total_inr": 68000
+  },
+  {
+    "order_id": "NC1006",
+    "customer_name": "Rahul Verma",
+    "customer_email": "rahul.verma@example.com",
+    "order_date": "2026-10-18",
+    "status": "cancelled",
+    "delivered_date": null,
+    "items": [{"name": "Power Bank 20000mAh", "category": "accessories", "price_inr": 1899, "qty": 1}],
+    "total_inr": 1899
+  },
+  {
+    "order_id": "NC1007",
+    "customer_name": "Sneha Iyer",
+    "customer_email": "sneha.iyer@example.com",
+    "order_date": "2026-10-20",
+    "status": "delivered",
+    "delivered_date": "2026-10-25",
+    "items": [{"name": "Smartwatch", "category": "wearables", "price_inr": 7999, "qty": 1}],
+    "total_inr": 7999
+  },
+  {
+    "order_id": "NC1008",
+    "customer_name": "Karan Mehta",
+    "customer_email": "karan.mehta@example.com",
+    "order_date": "2026-10-09",
+    "status": "delivered",
+    "delivered_date": "2026-10-10",
+    "items": [{"name": "Antivirus License (1 year)", "category": "software", "price_inr": 1200, "qty": 1}],
+    "total_inr": 1200
+  },
+  {
+    "order_id": "NC1009",
+    "customer_name": "Anita Rao",
+    "customer_email": "anita.rao@example.com",
+    "order_date": "2026-10-22",
+    "status": "delivered",
+    "delivered_date": "2026-10-27",
+    "items": [
+      {"name": "USB-C Cable", "category": "accessories", "price_inr": 499, "qty": 2},
+      {"name": "Phone Case", "category": "accessories", "price_inr": 799, "qty": 1}
+    ],
+    "total_inr": 1797
+  },
+  {
+    "order_id": "NC1010",
+    "customer_name": "Sneha Iyer",
+    "customer_email": "sneha.iyer@example.com",
+    "order_date": "2026-10-01",
+    "status": "delivered",
+    "delivered_date": "2026-10-05",
+    "items": [{"name": "Bluetooth Speaker", "category": "audio", "price_inr": 3299, "qty": 1}],
+    "total_inr": 3299
+  }
+]

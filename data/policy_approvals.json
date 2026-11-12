@@ -1,0 +1,14 @@
+{
+  "returns.md": {
+    "sha256": "634151f39c49ecefd6c16e005d4496ae3f7a630e4f9a996603ca75a3eb9afb87",
+    "approved_on": "2026-11-02"
+  },
+  "shipping.md": {
+    "sha256": "8dc9ac046eacd391a569daa86237099d5af7b84c6bab69b26da745151cdfd692",
+    "approved_on": "2026-11-02"
+  },
+  "warranty.md": {
+    "sha256": "b0f8ffdea5323cfaf2d167386999a75516d4211264d4d415dbae69ad5b84054f",
+    "approved_on": "2026-11-02"
+  }
+}
